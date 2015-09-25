@@ -5,7 +5,8 @@
 	    <property name="antjar.file" value="${basedir}/ant-contrib-0.6.jar"/>
 		<echo message="Looking for JAR antcontrib.jar at : ${antjar.file}"/>
 		<taskdef resource="net/sf/antcontrib/antcontrib.properties">
-		<classpath>
+	
+	<classpath>
 			<pathelement location="${antjar.file}"/>
 		</classpath>
 		</taskdef>
