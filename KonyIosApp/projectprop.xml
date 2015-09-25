@@ -24,5 +24,6 @@
     <attributes name="APPLICATION_THEME" value="default"/>
     <attributes name="SELECTED_THEME" value="default"/>
     <attributes name="startupformkey" value="IosMobileFrm"/>
+
     <attributes name="desktopstartupformkey" value="IosDesktopFrm"/>
 </properties>
